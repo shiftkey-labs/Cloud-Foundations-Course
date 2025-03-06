@@ -18,6 +18,7 @@ The course spans four weeks, with each week covering essential cloud concepts, s
 ### **2. Accessing Course Content**  
    - Navigate to the appropriate week folder in this repository.  
    - Review the slides (`.pdf`).
+   - Practice exams [Practice Exams](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/tree/master/practice-exam).
 
 ### **3. Completing Hands-On Labs**  
    - Follow the step-by-step instructions provided in each week’s guide.  
