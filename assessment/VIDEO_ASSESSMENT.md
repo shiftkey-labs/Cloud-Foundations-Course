@@ -25,7 +25,7 @@ In a 1-minute video, explain your deployment strategy by addressing the followin
 - What measures will you take to ensure high uptime and disaster recovery?
 
 ## Submission Guidelines:
-- Keep your response concise and structured.
+- Keep your response concise and structured. You just need to explain to the client why and how you'll be migrating their business to the cloud. There is no right or wrong answer to this so dont worry!
 - Avoid excessive technical jargon—explain in a way a non-technical stakeholder would understand.
 - You may use diagrams or visuals in your video if needed, but they are not required.
 - Focus on clear communication and justification of your choices rather than listing services.
