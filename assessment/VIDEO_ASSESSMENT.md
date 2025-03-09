@@ -1,26 +1,30 @@
-Video Submission Prompt: Solutions Architect Challenge
+# Video Submission Prompt: Solutions Architect Challenge
 
-Scenario:
+## Scenario:
 
 You have been hired as a Solutions Architect to design the deployment strategy for a local coffee vendor’s website (Cafe ShiftKey). The vendor wants to enable online ordering and expand globally while ensuring high availability, scalability, and low latency for customers across different regions (including Canada, Australia, China and South Africa).
 
-Your Task:
+## Your Task:
 
 In a 1-minute video, explain your deployment strategy by addressing the following key points:
-	1.	Hosting & Deployment:
+
+### Hosting & Deployment:
 	•	Where will you host the website? (E.g., cloud provider, managed services, serverless, etc.)
 	•	How will you ensure scalability and fault tolerance?
-	2.	Global Availability & Performance Optimization:
+
+### Global Availability & Performance Optimization:
 	•	How will you handle traffic from different countries?
 	•	What technologies or strategies (e.g., CDN, load balancing, multi-region deployment) will you use to reduce latency and improve user experience?
-	3.	Database & Data Consistency:
+
+### Database & Data Consistency:
 	•	What database solution will you use to handle customer orders across multiple regions?
 	•	How will you maintain data availability and consistency?
-	4.	Security & Reliability:
+
+### Security & Reliability:
 	•	How will you secure the website and customer transactions?
 	•	What measures will you take to ensure high uptime and disaster recovery?
 
-Submission Guidelines:
+## Submission Guidelines:
 	•	Keep your response concise and structured.
 	•	Avoid excessive technical jargon—explain in a way a non-technical stakeholder would understand.
 	•	You may use diagrams or visuals in your video if needed, but they are not required.
